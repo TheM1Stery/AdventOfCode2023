@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Compile Include="Program.fs" />
+    <Content Include="input.txt" />
+    <Content Include="inputPartTwo.txt" />
   </ItemGroup>
 
   <ItemGroup>
